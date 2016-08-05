@@ -1,12 +1,11 @@
 # ejercicios-de-clases-y-proyectos
-codigo para calcular la constante de klaperkar 
-#include <stdio.h>
-#include <stdlib.h>
+codigo para calcular la constante de klaperkar en lenguaje c
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char *argv[]) {
-	
+	#include <stdio.h>
+	#include <stdlib.h>
+	/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+	int main(int argc, char *argv[]) {
 	int num,res,res2,conti=1,total,cot=0,a,b,c,d,r,i,aux;
 	printf("<<<<<<<<Bienvenido>>>>>>>>> \n A continuacion vamos a demostrar si el NUMERO=?\n Es una constante de klaperkar\n");
 	printf("Para CONTINUAR pulse (s) ");
@@ -92,5 +91,6 @@ int main(int argc, char *argv[]) {
 	}
 	printf("\n\n\n<<<<<<<<<<<<<<HASTA PRONTO >>>>>>>>>>>>>>>> ");
 	return 1;
-}//echo por=kevin duran 
+	}//echo por=kevin duran 
+
 
