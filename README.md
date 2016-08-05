@@ -93,3 +93,4 @@ int main(int argc, char *argv[]) {
 	printf("\n\n\n<<<<<<<<<<<<<<HASTA PRONTO >>>>>>>>>>>>>>>> ");
 	return 1;
 }//echo por=kevin duran 
+
